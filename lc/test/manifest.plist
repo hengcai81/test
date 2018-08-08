@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fivetiger.leyou</string>
+				<string>com.fivetiger.leyou.test</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>恒彩</string>
+				<string>恒彩测试</string>
 			</dict>
 		</dict>
 	</array>
