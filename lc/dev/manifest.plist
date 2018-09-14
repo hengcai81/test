@@ -13,6 +13,18 @@
 					<key>url</key>
 					<string>http://192.168.1.167:8081/static/app/ios.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string></string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -23,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>恒彩内部测试</string>
+				<string>恒彩内部开发</string>
 			</dict>
 		</dict>
 	</array>
