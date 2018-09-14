@@ -11,19 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://103.93.124.164:8088/app/ios.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>http://103.93.124.164:8081/app/ios.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>http://103.93.124.164:8081/app/ios.png</string>
+					<string>http://192.168.1.167:8081/static/app/ios.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>恒彩</string>
+				<string>恒彩内部测试</string>
 			</dict>
 		</dict>
 	</array>
