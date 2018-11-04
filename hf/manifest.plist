@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://appdw.wooloor.com/static/app/hc_apple.ipa</string>
+					<string>http://ciapi.ws2000.com/static/app/apple.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fivetiger.leyou</string>
+				<string>com.fivetiger.hengfeng</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
