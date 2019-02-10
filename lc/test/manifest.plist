@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fivetiger.leyou.testnb</string>
+				<string>com.fivetiger.newleyou.testnb</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
